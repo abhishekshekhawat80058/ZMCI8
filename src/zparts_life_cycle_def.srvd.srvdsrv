@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition Parts Life Cycle Report'
+define service ZPARTS_LIFE_CYCLE_DEF {
+  expose zparts_life_cycle_cds1 as PARTS_life_Cycle_report;
+}

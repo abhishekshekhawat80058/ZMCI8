@@ -1,0 +1,34 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "MCI8",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD"
+  },
+  "ui5AppDetails": {
+    "appId": "zmci8"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_09C60EF43D754DB1D2AFF8104F8863AB3D9A9894_TM",
+    "semanticObject": "ZMCI8",
+    "action": "Display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_09C60EF43D754DB1D2AFF8104F8863AB3D9A9894_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "MCI8",
+        "subtitle": "Cost Analysis Report"
+      }
+    }
+  ]
+}
